@@ -1,0 +1,5 @@
+how to install the aircrack realtek drivers that acutally do moniutor mode in ubuntu 20? i think i ahve 22
+
+su root
+make dkms_install
+
